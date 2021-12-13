@@ -1,0 +1,15 @@
+:root {
+  --main-color: #3393ff;
+  --main-modal-color: rgba(200, 217, 240, 0.993);
+  --second-color: #33ecff;
+  --second-modal-color: rgba(255, 255, 255, 0.5);
+}
+* {
+  box-sizing: border-box;
+}
+
+a {
+  font-weight: bold;
+  color: var(--second-color);
+  transition: all 0.3s ease-out;
+}
